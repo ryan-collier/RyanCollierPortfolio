@@ -19,21 +19,3 @@ const revealObserver = new IntersectionObserver(
   { threshold: 0.15 }
 );
 revealTargets.forEach((el) => revealObserver.observe(el));
-
-// Animate skill bars once visible
-const skillRows = document.querySelectorAll(".skill-row");
-const skillObserver = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        const row = entry.target;
-        const level = row.getAttribute("data-level") || "0";
-        const fill = row.querySelector(".skill-fill");
-        if (fill) fill.style.width = level + "%";
-        skillObserver.unobserve(row);
-      }
-    });
-  },
-  { threshold: 0.4 }
-);
-skillRows.forEach((row) => skillObserver.observe(row));
