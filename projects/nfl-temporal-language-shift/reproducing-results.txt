@@ -1,0 +1,21 @@
+SCC.453 - NLP Research Project
+Ryan Collier - 37069416
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/patzshane/football-commentary-data-set-college-and-nfl
+(There is also a link on the uploaded pdf to get to the same dataset)
+
+For replicating the results:
+
+1.a) Download the dataset from the Kaggle link
+  b) It contains 2 directories and 4 additional files
+
+2.a) The coding aspect, for obtaining replicable results, is in the File Submission on Moodle
+  b) Have both the data and .ipynb file in the same folder
+
+3.a) Under the "Configuration" cell in the .ipynb adjust the pathing to match where the dataset folder is stored
+  b) I've additionally added notes in the notebook for this part
+
+4. Once this is all done, you can run the code! Resulting in matching results to those in the report
+
+(Note: The whole results are stored in csv files, the folder creates itself in the dataset and notebook folder when run, I'll additionally add the results I achieved in zip file)
+

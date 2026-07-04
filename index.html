@@ -154,23 +154,28 @@
 
     <div class="project-grid">
 
-      <!-- EDIT ME: Project card 1 -->
       <article class="project-card">
         <div class="project-top">
           <span class="project-index">P.01</span>
-          <span class="project-status">Add project</span>
         </div>
-        <h3>Project title</h3>
+        <h3>NFL Temporal Language Shift Analysis</h3>
         <p>
-          One or two sentences on the problem, the approach, and the result.
-          What did the data show, and what did you build to show it?
+          Analysed 5 decades of NFL commentary to test whether vocabulary
+          drift from the 1970s to the 2010s hurts a classifier's ability to
+          predict player position across eras. Bootstrap log-ratio shift
+          analysis and rolling TF-IDF lexical divergence quantified the
+          drift; within-decade vs. cross-decade classification (Naive
+          Bayes, Logistic Regression, Linear SVM) showed macro-F1 dropping
+          from ~0.80 to ~0.30 across decades, confirmed significant by a
+          McNemar test.
         </p>
         <div class="project-tags">
-          <span>Tag</span><span>Tag</span><span>Tag</span>
+          <span>Python</span><span>NLP</span><span>scikit-learn</span><span>Pandas</span><span>Hypothesis Testing</span>
         </div>
         <div class="project-links">
-          <a href="#">Code →</a>
-          <a href="#">Write-up →</a>
+          <a href="projects/nfl-temporal-language-shift/NFL_Temporal_Analysis_Shift.ipynb">Code →</a>
+          <a href="projects/nfl-temporal-language-shift/write-up.pdf">Write-up →</a>
+          <a href="projects/nfl-temporal-language-shift/reproducing-results.txt">Reproduce →</a>
         </div>
       </article>
 
