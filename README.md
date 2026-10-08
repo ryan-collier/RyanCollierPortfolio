@@ -24,6 +24,7 @@ A single-page site covering:
 ## Contact
 
 - Email: [theryancollier@gmail.com](mailto:theryancollier@gmail.com)
+- Email (alternative): [ryanlcollier@proton.me](mailto:ryanlcollier@proton.me)
 - GitHub: [@ryan-collier](https://github.com/ryan-collier)
 
 ## Development
