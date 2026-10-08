@@ -1,0 +1,73 @@
+date,home,away,city,P_home_win,P_draw,P_away_win,predicted,elo_home,elo_away
+2026-06-11,Mexico,South Africa,Mexico City,0.783,0.173,0.044,Mexico,1982,1660
+2026-06-11,South Korea,Czech Republic,Zapopan,0.405,0.306,0.289,South Korea,1894,1809
+2026-06-12,United States,Paraguay,Inglewood,0.317,0.261,0.422,Paraguay,1845,1941
+2026-06-12,Canada,Bosnia and Herzegovina,Toronto,0.756,0.171,0.074,Canada,1902,1676
+2026-06-13,Qatar,Switzerland,Santa Clara,0.086,0.196,0.719,Switzerland,1575,1964
+2026-06-13,Brazil,Morocco,East Rutherford,0.487,0.258,0.255,Brazil,2061,1999
+2026-06-13,Haiti,Scotland,Foxborough,0.184,0.287,0.529,Scotland,1700,1875
+2026-06-13,Australia,Turkey,Vancouver,0.254,0.299,0.447,Turkey,1912,1991
+2026-06-14,Germany,Curaçao,Houston,0.803,0.144,0.053,Germany,2010,1621
+2026-06-14,Ivory Coast,Ecuador,Philadelphia,0.151,0.284,0.565,Ecuador,1820,2041
+2026-06-14,Netherlands,Japan,Arlington,0.397,0.267,0.337,Netherlands,2014,2006
+2026-06-14,Sweden,Tunisia,Guadalupe,0.399,0.286,0.316,Sweden,1776,1743
+2026-06-15,Belgium,Egypt,Seattle,0.523,0.247,0.23,Belgium,1949,1812
+2026-06-15,Iran,New Zealand,Inglewood,0.516,0.277,0.207,Iran,1899,1736
+2026-06-15,Spain,Cape Verde,Atlanta,0.862,0.115,0.023,Spain,2229,1658
+2026-06-15,Saudi Arabia,Uruguay,Miami Gardens,0.134,0.227,0.639,Uruguay,1700,1973
+2026-06-16,Austria,Jordan,Santa Clara,0.544,0.26,0.196,Austria,1884,1781
+2026-06-16,Argentina,Algeria,Kansas City,0.733,0.179,0.088,Argentina,2179,1874
+2026-06-16,France,Senegal,East Rutherford,0.616,0.228,0.156,France,2131,1912
+2026-06-16,Iraq,Norway,Foxborough,0.145,0.227,0.627,Norway,1753,2010
+2026-06-17,Portugal,DR Congo,Houston,0.72,0.185,0.095,Portugal,2044,1774
+2026-06-17,Uzbekistan,Colombia,Mexico City,0.152,0.28,0.567,Colombia,1833,2059
+2026-06-17,England,Croatia,Arlington,0.548,0.246,0.205,England,2105,1981
+2026-06-17,Ghana,Panama,Toronto,0.146,0.243,0.611,Panama,1639,1848
+2026-06-18,Canada,Qatar,Vancouver,0.82,0.132,0.048,Canada,1902,1575
+2026-06-18,Czech Republic,South Africa,Atlanta,0.574,0.242,0.184,Czech Republic,1809,1660
+2026-06-18,Mexico,South Korea,Zapopan,0.571,0.255,0.174,Mexico,1982,1894
+2026-06-18,Switzerland,Bosnia and Herzegovina,Inglewood,0.755,0.164,0.081,Switzerland,1964,1676
+2026-06-19,Turkey,Paraguay,Santa Clara,0.413,0.27,0.317,Turkey,1991,1941
+2026-06-19,United States,Australia,Seattle,0.378,0.27,0.352,United States,1845,1912
+2026-06-19,Scotland,Morocco,Foxborough,0.226,0.308,0.466,Morocco,1875,1999
+2026-06-19,Brazil,Haiti,Philadelphia,0.781,0.132,0.087,Brazil,2061,1700
+2026-06-20,Tunisia,Japan,Guadalupe,0.147,0.205,0.648,Japan,1743,2006
+2026-06-20,Germany,Ivory Coast,Toronto,0.66,0.224,0.116,Germany,2010,1820
+2026-06-20,Ecuador,Curaçao,Kansas City,0.824,0.129,0.048,Ecuador,2041,1621
+2026-06-20,Netherlands,Sweden,Houston,0.651,0.23,0.119,Netherlands,2014,1776
+2026-06-21,Spain,Saudi Arabia,Atlanta,0.827,0.144,0.029,Spain,2229,1700
+2026-06-21,Uruguay,Cape Verde,Miami Gardens,0.733,0.188,0.08,Uruguay,1973,1658
+2026-06-21,Belgium,Iran,Inglewood,0.424,0.275,0.301,Belgium,1949,1899
+2026-06-21,New Zealand,Egypt,Vancouver,0.298,0.27,0.432,Egypt,1736,1812
+2026-06-22,Jordan,Algeria,Santa Clara,0.26,0.291,0.449,Algeria,1781,1874
+2026-06-22,Argentina,Austria,Arlington,0.688,0.222,0.09,Argentina,2179,1884
+2026-06-22,France,Iraq,Philadelphia,0.76,0.165,0.075,France,2131,1753
+2026-06-22,Norway,Senegal,East Rutherford,0.522,0.266,0.212,Norway,2010,1912
+2026-06-23,Portugal,Uzbekistan,Houston,0.626,0.224,0.15,Portugal,2044,1833
+2026-06-23,Colombia,DR Congo,Zapopan,0.738,0.173,0.089,Colombia,2059,1774
+2026-06-23,England,Ghana,Foxborough,0.839,0.137,0.023,England,2105,1639
+2026-06-23,Panama,Croatia,Toronto,0.241,0.259,0.5,Croatia,1848,1981
+2026-06-24,Bosnia and Herzegovina,Qatar,Seattle,0.494,0.298,0.208,Bosnia and Herzegovina,1676,1575
+2026-06-24,Mexico,Czech Republic,Mexico City,0.684,0.212,0.104,Mexico,1982,1809
+2026-06-24,South Africa,South Korea,Guadalupe,0.148,0.277,0.575,South Korea,1660,1894
+2026-06-24,Canada,Switzerland,Vancouver,0.392,0.311,0.297,Canada,1902,1964
+2026-06-24,Scotland,Brazil,Miami Gardens,0.16,0.28,0.559,Brazil,1875,2061
+2026-06-24,Morocco,Haiti,Atlanta,0.732,0.187,0.081,Morocco,1999,1700
+2026-06-25,Ecuador,Germany,East Rutherford,0.443,0.288,0.269,Ecuador,2041,2010
+2026-06-25,Curaçao,Ivory Coast,Philadelphia,0.2,0.256,0.544,Ivory Coast,1621,1820
+2026-06-25,Japan,Sweden,Arlington,0.628,0.255,0.117,Japan,2006,1776
+2026-06-25,United States,Turkey,Inglewood,0.274,0.258,0.469,Turkey,1845,1991
+2026-06-25,Paraguay,Australia,Santa Clara,0.389,0.309,0.302,Paraguay,1941,1912
+2026-06-25,Tunisia,Netherlands,Kansas City,0.148,0.205,0.647,Netherlands,1743,2014
+2026-06-26,Uruguay,Spain,Zapopan,0.158,0.191,0.651,Spain,1973,2229
+2026-06-26,Cape Verde,Saudi Arabia,Houston,0.293,0.304,0.404,Saudi Arabia,1658,1700
+2026-06-26,Norway,France,Foxborough,0.261,0.285,0.454,France,2010,2131
+2026-06-26,Egypt,Iran,Seattle,0.257,0.302,0.441,Iran,1812,1899
+2026-06-26,New Zealand,Belgium,Vancouver,0.226,0.166,0.608,Belgium,1736,1949
+2026-06-26,Senegal,Iraq,Toronto,0.553,0.258,0.189,Senegal,1912,1753
+2026-06-27,DR Congo,Uzbekistan,Atlanta,0.26,0.28,0.46,Uzbekistan,1774,1833
+2026-06-27,Colombia,Portugal,Miami Gardens,0.357,0.25,0.393,Portugal,2059,2044
+2026-06-27,Panama,England,East Rutherford,0.153,0.207,0.64,England,1848,2105
+2026-06-27,Algeria,Austria,Kansas City,0.332,0.304,0.363,Austria,1874,1884
+2026-06-27,Jordan,Argentina,Arlington,0.133,0.172,0.694,Argentina,1781,2179
+2026-06-27,Croatia,Ghana,Philadelphia,0.732,0.195,0.073,Croatia,1981,1639
